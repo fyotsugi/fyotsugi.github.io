@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on ヨツギークのブログ</title>
+    <link>https://yotsugeek.com/tags/css/</link>
+    <description>Recent content in CSS on ヨツギークのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yotsugeek.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>マークダウン記法</title>
+      <link>https://yotsugeek.com/post/markdown/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yotsugeek.com/post/markdown/</guid>
+      <description>&lt;p&gt;マークダウン記法の簡易まとめ&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>github pagesにブログをhugoで構築してみた</title>
+      <link>https://yotsugeek.com/post/20210421/</link>
+      <pubDate>Wed, 21 Apr 2021 23:52:39 +0900</pubDate>
+      
+      <guid>https://yotsugeek.com/post/20210421/</guid>
+      <description>&lt;p&gt;静的サイトジェネレータhugoを使ってブログを構築してみた&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
